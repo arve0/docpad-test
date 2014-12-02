@@ -1,0 +1,3 @@
+[submodule "src/documents/oppgaver"]
+	path = src/documents/oppgaver
+	url = https://github.com/kodeklubben/oppgaver
